@@ -1,2 +1,0 @@
-com/sw/spring/sungwookspring/web/HelloControllerTest.java
- com.sw.spring.sungwookspring.web.HelloControllerTest
