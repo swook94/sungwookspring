@@ -1,0 +1,10 @@
+com/sw/spring/sungwookspring/web/IndexControllerTest.java
+ com.sw.spring.sungwookspring.web.IndexControllerTest
+com/sw/spring/sungwookspring/web/dto/HelloResponseDtoTest.java
+ com.sw.spring.sungwookspring.web.dto.HelloResponseDtoTest
+com/sw/spring/sungwookspring/domain/posts/PostRepositoryTest.java
+ com.sw.spring.sungwookspring.domain.posts.PostRepositoryTest
+com/sw/spring/sungwookspring/web/PostsApiControllerTest.java
+ com.sw.spring.sungwookspring.web.PostsApiControllerTest
+com/sw/spring/sungwookspring/web/HelloControllerTest.java
+ com.sw.spring.sungwookspring.web.HelloControllerTest
