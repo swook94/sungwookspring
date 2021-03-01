@@ -18,9 +18,9 @@ before_install: "chmod +x gradlew"
 script: "./gradlew clean build"
 
 before_deploy:
-  - zip -r sungwookspring
+  - zip -r sw
   - mkdir -p deploy
-  - mv sungwookspring.zip deploy/sungwookspring.zip
+  - mv sw.zip deploy/sw.zip
 
 deploy:
   - provider: s3
