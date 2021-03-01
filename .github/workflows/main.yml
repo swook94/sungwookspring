@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v2
       
     - name : Grant execute permission for gradlew
-      run: chmod +xgradlew
+      run: chmod +x gradlew
       shell: bash
       
     - name : Build With Gradle
