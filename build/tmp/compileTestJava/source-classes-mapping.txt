@@ -8,3 +8,7 @@ com/sw/spring/sungwookspring/web/PostsApiControllerTest.java
  com.sw.spring.sungwookspring.web.PostsApiControllerTest
 com/sw/spring/sungwookspring/web/HelloControllerTest.java
  com.sw.spring.sungwookspring.web.HelloControllerTest
+com/sw/spring/sungwookspring/web/ProfileControllerUnitTest.java
+ com.sw.spring.sungwookspring.web.ProfileControllerUnitTest
+com/sw/spring/sungwookspring/web/ProfileControllerTest.java
+ com.sw.spring.sungwookspring.web.ProfileControllerTest

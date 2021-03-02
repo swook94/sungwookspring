@@ -43,11 +43,13 @@ com/sw/spring/sungwookspring/web/dto/PostsSaveRequestDto.java
  com.sw.spring.sungwookspring.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/sw/spring/sungwookspring/domain/posts/PostsRepository.java
  com.sw.spring.sungwookspring.domain.posts.PostsRepository
-com/sw/spring/sungwookspring/config/auth/SecurityConfig.java
- com.sw.spring.sungwookspring.config.auth.SecurityConfig
+com/sw/spring/sungwookspring/Application.java
+ com.sw.spring.sungwookspring.Application
 com/sw/spring/sungwookspring/web/HelloController.java
  com.sw.spring.sungwookspring.web.HelloController
 com/sw/spring/sungwookspring/config/JpaConfig.java
  com.sw.spring.sungwookspring.config.JpaConfig
-com/sw/spring/sungwookspring/Application.java
- com.sw.spring.sungwookspring.Application
+com/sw/spring/sungwookspring/web/ProfileController.java
+ com.sw.spring.sungwookspring.web.ProfileController
+com/sw/spring/sungwookspring/config/auth/SecurityConfig.java
+ com.sw.spring.sungwookspring.config.auth.SecurityConfig
